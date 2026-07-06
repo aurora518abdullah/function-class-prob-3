@@ -1,4 +1,4 @@
-//call after referrance
+//call after referrance ... eigula error finding e ashbe
 #include<stdio.h>
 
 void addOne(int *a)
